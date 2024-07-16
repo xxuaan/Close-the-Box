@@ -42,10 +42,10 @@ The game board consists of numbers from 1 to 9, all initially open (represented 
 Shut the Box is a game of chance and strategy that can be enjoyed by players of all ages. It fosters critical thinking and decision-making skills while providing a fun and engaging experience. Enjoy playing and may the best strategist win! 
 </p>
 
-
-
-
-
+<p>
+<h6> * I called it "Shut the box" but changed it to Close the box <br> * "Close" and "Shut" refers to the same thing, closing the number from the box <br> * "Board" is used to refer to the numbers available/all the numbers <br> * "Tiles" refer to the numbers 1 to 9
+</h6>
+</p>
 
 
 
