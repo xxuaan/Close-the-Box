@@ -1,4 +1,4 @@
-How the project started:
+How the project started: <b>
 I love playing this gmame on my phone. However, the app that I use has too many ads everywhere and I could not play the game back to back as there would be ads poping up after every game for a good minute. With the creation of this, I am able to play without interuptions :)
 
 Close the Box Game: Overview and Instructions
