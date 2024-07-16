@@ -34,8 +34,8 @@ The game board consists of numbers from 1 to 9, all initially open (represented 
 
 <p>
 <h3><b>Strategy Tips!</b></h3>
-- Plan your moves carefully to maximize the numbers you can shut. <br>
-- Consider which numbers are left on the board as the game progresses to avoid leaving high-value numbers that could hinder future moves.
+1. Plan your moves carefully to maximize the numbers you can shut. <br>
+2. Consider which numbers are left on the board as the game progresses to avoid leaving high-value numbers that could hinder future moves.
 </p>
 <p>
 <h3><b> Conclusion </b></h3>
